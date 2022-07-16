@@ -1,0 +1,16 @@
+# University Management System
+
+![University Management System](https://user-images.githubusercontent.com/102528280/179354522-450c3426-2e7a-4aaa-bbb4-ab86194eb9b8.png)
+
+
+1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
+
+2 - Departmanlara ait ofisler vardır.
+
+3 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
+
+4 - Her çalışan bir ofiste çalışır.
+
+Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
+
+Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
