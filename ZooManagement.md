@@ -1,4 +1,4 @@
-# Hayvanat Bahçesi Yönetimi
+# Zoo Management
 
 ![ZooManagement](https://user-images.githubusercontent.com/102528280/179355520-37fb4f11-e82f-439b-a47e-071d790d91ac.png)
 
